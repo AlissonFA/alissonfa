@@ -1,6 +1,6 @@
 # Olá, sou Alisson!
 
-### Desenvolvedor Front-End | CSS & Interfaces Responsivas | Integração com IA (Google Gemini API)
+### Desenvolvedor Front-End
 <p>
 👨‍💻 Estudante apaixonado por programação, sempre buscando aprender algo novo e evoluir!
 
