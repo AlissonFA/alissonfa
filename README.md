@@ -2,13 +2,13 @@
 
 ### Desenvolvedor Front-End | CSS & Interfaces Responsivas | Integração com IA (Google Gemini API)
 <p>
-💻 Desenvolvedor Front-End focado em criar interfaces de alta fidelidade e performance.
+👨‍💻 Estudante apaixonado por programação, sempre buscando aprender algo novo e evoluir!
 
-Minha base é o CSS, garantindo layouts limpos e responsivos. Além disso, possuo certificação Google AI Essentials e experiência prática na integração de APIs de Inteligência Artificial (Gemini) em aplicações web.
+💻 Atualmente focado em desenvolvimento web (Front-End).
 
-🚀 O que eu faço: Desenvolvo desde Landing Pages imersivas com alto apelo visual e animações, até interfaces conversacionais inteligentes.
+⚙️ Gosto de entender como as tecnologias funcionam por trás das telas, experimentar novas ferramentas e transformar ideias em código.
 
-📚 Em constante aprimoramento na formação Full-Stack da Rocketseat, unindo design robusto com funcionalidades modernas.
+📚 Em constante aprimoramento na formação Full-Stack da Rocketseat, venho construindo minha base com cursos, estudos e projetos pessoais.
 </p>
 
 # Minhas Estatísticas
