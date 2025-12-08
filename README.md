@@ -11,9 +11,6 @@
 📚 Em constante aprimoramento na formação Full-Stack da Rocketseat, venho construindo minha base com cursos, estudos e projetos pessoais.
 </p>
 
-# Minhas Estatísticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonfa)](https://github.com/alissonfa/github-readme-stats)
-
 # Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
