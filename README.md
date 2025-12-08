@@ -12,9 +12,7 @@
 </p>
 
 # Minhas Estatísticas
-<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonfa)](https://github.com/alissonfa/github-readme-stats)
-</div>
 
 # Linguagens e Tecnologias
 <div style="display: inline_block"><br>
