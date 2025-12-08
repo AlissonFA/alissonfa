@@ -1,8 +1,14 @@
 # Olá, sou Alisson!
 
-### Desenvolvedor Front-End | Inteligência Artificial
+### Desenvolvedor Front-End | CSS & Interfaces Responsivas | Integração com IA (Google Gemini API)
 <p>
-Sou um desenvolvedor Front-End apaixonado por tecnologia desde a infância. Quando descobri o mundo da programação, foi como uma magia para mim, pois entendi que a única limitação para a criação era a minha própria criatividade. Desde então, tenho me dedicado a estudar e aprimorar minhas habilidades para transformar ideias em realidade.
+💻 Desenvolvedor Front-End focado em criar interfaces de alta fidelidade e performance.
+
+Minha base é o CSS, garantindo layouts limpos e responsivos. Além disso, possuo certificação Google AI Essentials e experiência prática na integração de APIs de Inteligência Artificial (Gemini) em aplicações web.
+
+🚀 O que eu faço: Desenvolvo desde Landing Pages imersivas com alto apelo visual e animações, até interfaces conversacionais inteligentes.
+
+📚 Em constante aprimoramento na formação Full-Stack da Rocketseat, unindo design robusto com funcionalidades modernas.
 </p>
 
 # Minhas Estatísticas
