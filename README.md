@@ -1,15 +1,15 @@
 # Olá, eu sou o Alisson! 👋
 
-### Desenvolvedor Front-End em formação | Full-Stack Student @Rocketseat
+### Desenvolvedor Full-Stack em formação | Student @Rocketseat
 
 <p>
 👨‍💻 Estudante apaixonado por programação, sempre buscando aprender algo novo e evoluir!
 
-🚀 Atualmente focado em dominar o ecossistema Web, com foco inicial em **Front-End**.
+🚀 Atualmente focado em dominar o ecossistema Web, construindo minha base inicial no **Front-End (HTML, CSS e JavaScript)** para em breve avançar para o Back-End.
 
 ⚙️ Gosto de entender como as tecnologias funcionam por trás das telas, experimentar novas ferramentas e transformar ideias em código.
 
-📚 Aluno da formação Full-Stack da Rocketseat, construindo uma base sólida para desafios reais.
+📚 Aluno da formação Full-Stack da Rocketseat, construindo uma base sólida para desafios reais do mercado.
 </p>
 
 ---
