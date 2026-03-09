@@ -5,7 +5,7 @@
 <p>
 👨‍💻 Estudante apaixonado por programação, sempre buscando aprender algo novo e evoluir!
 
-🚀 Atualmente focado em dominar o ecossistema Web, com foco inicial em **Front-End (HTML, CSS e JavaScript)**.
+🚀 Atualmente focado em dominar o ecossistema Web, com foco inicial em **Front-End**.
 
 ⚙️ Gosto de entender como as tecnologias funcionam por trás das telas, experimentar novas ferramentas e transformar ideias em código.
 
@@ -16,27 +16,15 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | HTML5, CSS3, JavaScript (ES6+) |
-| **Ferramentas** | Git, GitHub, VS Code, Prettier |
-| **Design** | Figma (Leitura de layouts e prototipagem) |
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonFA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFA&layout=compact&langs_count=7&theme=dark"/>
-</p>
 
 ---
 
@@ -50,7 +38,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
----
-
-*"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
